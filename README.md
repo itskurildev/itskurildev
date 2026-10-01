@@ -245,9 +245,7 @@ My core stack includes:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitskuril&locale=en&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=0D1117&custom_title=Code%20Composition&hide=Jupyter%20Notebook&cache_seconds=1800" height="200" alt="Top languages used by Kuril" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitskuril&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<br>
 
 </div>
 
