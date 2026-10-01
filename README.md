@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Kuril%20-%20Full%20Stack%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Kuril%20-%20Junior%20Full-Stack%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-### Building production-ready applications from the ground up
+### 1-year self-taught Software Engineer & Creator of ProduKu
 
 <br/>
 
-**📍 Jakarta, Indonesia** • **🟢 Available for Remote**
+**📍 Jakarta, Indonesia** • **🟢 Seeking My First Tech Role / Internship**
 
 <br/>
 
@@ -23,9 +23,11 @@
 
 ## 👋 Hello There
 
-I'm **Kuril**, a Full Stack Engineer with **1 year of software engineering experience and 4+ years in Retail Operations, Finance, and Inventory Management**.
+I'm **Kuril**, a **Junior Full-Stack Engineer** and **1-year self-taught Software Engineer**.
 
-I build **production-ready applications from the ground up**, combining hands-on software engineering with real-world business experience to solve practical problems.
+I'm currently preparing for my **first industry role/internship**, while building real-world applications and strengthening my software engineering fundamentals.
+
+I'm also the creator of **[ProduKu](https://produku.id)**, a SaaS product for Indonesian UMKM.
 
 My core stack includes:
 
@@ -45,56 +47,186 @@ My core stack includes:
 
 <table>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=git&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" /></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<br/>
+<sub>Figma</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" />
+<br/>
+<sub>Git</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
+<br/>
+<sub>GitHub Actions</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+<br/>
+<sub>Docker</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
+<br/>
+<sub>Vercel</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" />
+<br/>
+<sub>Cloudflare</sub>
+</td>
+
 </tr>
+
 <tr>
-<td><img src="https://skillicons.dev/icons?i=vite&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=vitest&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=astro&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=sentry&theme=dark" /></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" />
+<br/>
+<sub>Vite</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vitest&theme=dark" />
+<br/>
+<sub>Vitest</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" />
+<br/>
+<sub>Postman</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" />
+<br/>
+<sub>NestJS</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=astro&theme=dark" />
+<br/>
+<sub>Astro</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sentry&theme=dark" />
+<br/>
+<sub>Sentry</sub>
+</td>
+
 </tr>
 </table>
 
 ### Specialist Depth
 
 <table>
+
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" /></td>
-</tr>
-<tr>
+
 <td align="center">
-<img width="48" height="48" style="border-radius:12px;" src="https://img.shields.io/badge/TanStack-1E90FF?style=for-the-badge&logo=logoColor=white&label=" />
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
+<br/>
+<sub>Next.js</sub>
 </td>
-<td align="center"><img src="https://skillicons.dev/icons?i=redis&theme=dark" /></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+<br/>
+<sub>Node.js</sub>
+</td>
+
 </tr>
+
 <tr>
+
 <td align="center">
-<img width="48" height="48" style="border-radius:12px;" src="https://img.shields.io/badge/T3-1E90FF?style=for-the-badge&logo=logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+<br/>
+<sub>React</sub>
 </td>
+
 <td align="center">
-<img width="48" height="48" style="border-radius:12px;" src="https://img.shields.io/badge/tRPC-1E90FF?style=for-the-badge&logo=logoColor=white" />
+<img src="https://skillicons.dev/icons?i=express&theme=dark" />
+<br/>
+<sub>Express</sub>
 </td>
+
 </tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=typescript&theme=dark" />
+<br/>
+<sub>TypeScript</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+<br/>
+<sub>PostgreSQL</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+<br/>
+<sub>Tailwind CSS</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark" />
+<br/>
+<sub>Prisma</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" />
+<br/>
+<sub>Redis</sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/tanstack/FF4154" width="48" />
+<br/>
+<sub>TanStack Query</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
+<br/>
+<sub>Zustand</sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/zod/3E67B1" width="48" />
+<br/>
+<sub>Zod</sub>
+</td>
+
+</tr>
+
 </table>
 
 </div>
