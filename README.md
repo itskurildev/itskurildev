@@ -10,17 +10,9 @@
 
 <br/>
 
----
-
 ## 👋 Hello There
 
-I'm **Kuril**, **non IT** guy who love building and shipping products from the ground up.
-
----
-
-<div align="center">
-
-### Thanks for Visiting 👋
+I'm **Kuril**, a **non-IT guy** who loves building and shipping products from the ground up.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 
