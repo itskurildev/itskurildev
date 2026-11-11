@@ -14,7 +14,7 @@
 
 ## 👋 Hello There
 
-I'm **Kuril**, a **non IT** guy who love building and shipping products from the ground up.
+I'm **Kuril**, **non IT** guy who love building and shipping products from the ground up.
 
 ---
 
