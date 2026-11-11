@@ -10,19 +10,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itskurildev)
-[![Instagram](https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itskurildev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kuril.dev)
-[![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyitskuril@gmail.com)
-
-</div>
-
-<br/>
-
 ---
 
 ## 👋 Hello There
-
 I'm **Kuril**, a **non IT** guy who love building and shipping products from the ground up.
 
 ---
